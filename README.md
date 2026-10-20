@@ -7,12 +7,10 @@ Eine Datenpipeline mit Open Food Facts
 |---|---|
 | **Modul** | Data Engineering HS26, ZHAW School of Management and Law |
 | **Leistungsnachweis** | Projektarbeit, Teil 1 (Abgabe 27.10.2026, 23:59 Uhr) |
-| **Gruppe** | [Vorname Nachname A] ([GitHub-Benutzername A]) · [Vorname Nachname B] ([GitHub-Benutzername B]) |
+| **Gruppe** | Cindy Sommer (cin614) · Andrea Brunetto (Andrea1700) |
 | **Dozierende** | Maria Rothstein, Dr. Václav Pechtor |
 | **Datenstand** | Snapshot vom 06.10.2026 |
 
-> **Hinweis zum Abgabe-Branch:** Der Branch `abgabe-teil1` hält den eingereichten Stand fest und wird nach dem
-> 27.10.2026 nicht mehr verändert. Die Weiterarbeit für Teil 2 erfolgt auf dem Branch `main`.
 
 ---
 
