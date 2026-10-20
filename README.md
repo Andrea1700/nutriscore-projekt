@@ -85,9 +85,18 @@ https://huggingface.co/datasets/openfoodfacts/product-database (Datei `food.parq
 *Contains data from Open Food Facts, available under the Open Database License (ODbL 1.0).*
 Lizenz: https://opendatacommons.org/licenses/odbl/1.0/
 
-### Vollständige Rohdaten
-Der Gesamtexport (`data/raw/off_food_2026-10-06.parquet`, mehrere GB) überschreitet die maximale Dateigrösse
-von GitHub und ist deshalb nicht im Repository enthalten.
+### Vollständige Daten
+Der Gesamtexport (`data/raw/off_food_2026-10-06.parquet`, mehrere GB) überschreitet die maximale
+Dateigrösse von GitHub und ist deshalb nicht im Repository enthalten.
+
+**Alle Projektdaten (Snapshot 06.10.2026, ZHAW-OneDrive, Zugriff mit ZHAW-Login):**
+HIER-DEN-LINK-EINFÜGEN
+
+Der Ordner enthält den vollständigen `data`-Ordner: Rohdaten (`raw/`), Bronze-Stufe (`bronze/`),
+DuckDB-Datenbank mit Silver- und Gold-Tabellen, Stichprobe (`sample/`) und Grafik.
+Zur Reproduktion den Ordner als `data/` in das Repository kopieren; das Notebook überspringt dann den Download.
+Die Datengrundlage der Analyse (alle Schweizer Produkte, Werte unverändert) liegt zusätzlich direkt im
+Repository unter `data/bronze/off_ch_2026-10-06.parquet`.
 
 **Download der Rohdaten (Snapshot 06.10.2026):** [LINK ZU MS TEAMS / SHAREPOINT / WETRANSFER EINFÜGEN]
 
