@@ -90,7 +90,7 @@ Der Gesamtexport (`data/raw/off_food_2026-10-06.parquet`, mehrere GB) überschre
 Dateigrösse von GitHub und ist deshalb nicht im Repository enthalten.
 
 **Alle Projektdaten (Snapshot 06.10.2026, ZHAW-OneDrive, Zugriff mit ZHAW-Login):**
-HIER-DEN-LINK-EINFÜGEN
+https://zhaw-my.sharepoint.com/:f:/r/personal/bruneand_students_zhaw_ch/Documents/Nutriscore-Projekt_data?d=w2a7c7987a81f472eace7b8b8632a76f5&csf=1&web=1&e=354ocW
 
 Der Ordner enthält den vollständigen `data`-Ordner: Rohdaten (`raw/`), Bronze-Stufe (`bronze/`),
 DuckDB-Datenbank mit Silver- und Gold-Tabellen, Stichprobe (`sample/`) und Grafik.
