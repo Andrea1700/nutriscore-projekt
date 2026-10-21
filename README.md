@@ -98,11 +98,6 @@ Zur Reproduktion den Ordner als `data/` in das Repository kopieren; das Notebook
 Die Datengrundlage der Analyse (alle Schweizer Produkte, Werte unverändert) liegt zusätzlich direkt im
 Repository unter `data/bronze/off_ch_2026-10-06.parquet`.
 
-**Download der Rohdaten (Snapshot 06.10.2026):** [LINK ZU MS TEAMS / SHAREPOINT / WETRANSFER EINFÜGEN]
-
-Die Datei unter `data/raw/` ablegen. Das Notebook erkennt sie und überspringt den Download.
-Ohne diese Datei lädt das Notebook automatisch den *aktuellen* Export herunter; dieser kann vom ausgewerteten
-Snapshot abweichen.
 
 ### Im Repository enthaltene Daten
 
